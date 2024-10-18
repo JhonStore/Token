@@ -1,7 +1,7 @@
 # Theme
 JANGAN DIJUAL BELAKAN YE BWANG !!!
 BUTUH LICENSE/PW CHAT TELE GUA
->> t.me/RafatharCode <<
+>> t.me/jhonchristoy <<
 
 Comand Run Install Thema
 
