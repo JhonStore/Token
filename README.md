@@ -5,4 +5,4 @@ BUTUH LICENSE/PW CHAT TELE GUA
 
 Comand Run Install Thema
 
-bash <(curl https://raw.githubusercontent.com/JhonStore/Token/main/install.sh)
+bash <(curl https://raw.githubusercontent.com/JhonDigital/Token/main/install.sh)
